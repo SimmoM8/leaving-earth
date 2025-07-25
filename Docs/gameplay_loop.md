@@ -1,26 +1,53 @@
-# 🔁 Core Gameplay Loop
+# Leaving Earth - Core Game Loop
 
-## Basic Loop
+## Player Starting Conditions
+- Player begins on Earth
+- Starting with a fixed amount of "Earth Currency"
+- No parts owned, no rocket built
+- Access to: Rocket parts store, resource marketplace, research lab, tool/equipment vendor
 
-1. Explore planets/systems
-2. Collect resources and data
-3. Analyze findings
-4. Unlock new technologies
-5. Upgrade ship
-6. Use upgrades to overcome further challenges
-7. Repeat, pushing deeper into space
+---
 
-## Player Actions
+## Core Gameplay Loop
 
-- Pilot and upgrade your rocket
-- Scan and land on celestial bodies
-- Manage fuel, power, cargo, and life support
-- Unlock tech via discoveries
-- Avoid or prepare for threats (e.g. anomalies, pirates, extreme physics)
+1. **PLAN**
+   - Decide goal (e.g. reach upper atmosphere, orbit Earth, land on the Moon)
+   - Review current inventory, tech level, and budget
 
-## Progression
+2. **BUY / GATHER**
+   - Use currency to buy parts, tools, or gather materials via mining or trade
+   - Invest in research/data analysis for tech unlocks (e.g. heat shields, guidance systems)
 
-- Escape Earth's orbit
-- Reach and explore increasingly distant systems
-- Unlock interstellar travel methods
-- Navigate toward the center of the galaxy
+3. **BUILD**
+   - Use simplified drag-and-drop or snap-to-grid rocket assembly interface
+   - Assemble components logically (engine, tank, capsule, parachute, etc.)
+   - Attach modules with structural constraints (weight, thrust, balance)
+
+4. **LAUNCH**
+   - Enter launch sequence: countdown → ignition
+   - Use Newtonian & relativistic physics during flight
+   - Manage fuel, trajectory, heat, G-force, atmospheric drag
+
+5. **RESULT**
+   - SUCCESS: Gain data from mission, progress tech, unlock new parts, gain funding
+   - FAILURE: Crash, explode, fall — recover scrap/materials/data, adjust plan
+
+6. **REPEAT**
+   - With better parts, more currency, and new tech, attempt further goals (orbit, docking, leaving Earth)
+
+---
+
+## Short-Term Goals (Milestones)
+- Reach outer atmosphere
+- Orbit Earth
+- Land on the Moon
+- Build first space station
+- Reach another star system
+
+---
+
+## Long-Term Gameplay Loops
+- Build autonomous colonies
+- Interstellar exploration
+- Encounter alien life / hazards
+- Deal with political, ethical decisions
