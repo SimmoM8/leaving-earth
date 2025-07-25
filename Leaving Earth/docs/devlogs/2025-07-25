@@ -1,0 +1,23 @@
+# 📓 Devlog – 2025-07-25
+
+## What I Did Today
+
+- Defined core game idea, genre, and loop
+- Wrote initial design docs:
+  - core_idea
+  - gameplay_loop
+  - mechanics
+  - world_and_story
+- Planned folder structure for Git + VS Code
+
+## Notes
+
+- Game should balance peace and tension
+- MVP will focus on movement, upgrades, and exploration
+- Tech unlocks will be driven by discovery, not XP
+
+## Next Steps
+
+- Choose engine: Unity or Godot
+- Set up `/src/` with basic movement prototype
+- Start coding first upgradeable module

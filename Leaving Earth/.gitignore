@@ -1,0 +1,29 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore builds
+/builds
+*.exe
+*.app
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Node/npm (if relevant)
+node_modules/
+
+# Unity-specific
+Library/
+Temp/
+Obj/
+Build/
+*.user
+*.csproj
+*.unityproj
+*.sln
+
+# Godot
+.import/
+export.cfg
